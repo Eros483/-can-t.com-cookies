@@ -34,10 +34,10 @@ information.
     - collections
     - datetime
     - language_tool_python
-Team Members:
- 1. Anuran
- 2. Kishika
- 3. Anish
- 4. Piyush
- 5. Jia
- 6. Arnab 
+11. Team Members:
+  1. Anuran
+  2. Kishika
+  3. Anish
+  4. Piyush
+  5. Jia
+  6. Arnab 
